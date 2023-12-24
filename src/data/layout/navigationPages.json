@@ -1,0 +1,35 @@
+{
+  "data": {
+    "id": "layoutDefault.tNavigationPages",
+    "langs": {
+      "en": {
+        "layoutDefault.tNavigationPages.account": "Account",
+        "layoutDefault.tNavigationPages.finance": "Finance",
+        "layoutDefault.tNavigationPages.preferences": "Preferences",
+        "layoutDefault.tNavigationPages.bonuses": "bonuses",
+        "layoutDefault.tNavigationPages.title": "Profile"
+      },
+      "es": {
+        "layoutDefault.tNavigationPages.account": "Account",
+        "layoutDefault.tNavigationPages.finance": "Finance",
+        "layoutDefault.tNavigationPages.preferences": "Preferences",
+        "layoutDefault.tNavigationPages.bonuses": "bonuses",
+        "layoutDefault.tNavigationPages.title": "Profile"
+      },
+      "de": {
+        "layoutDefault.tNavigationPages.account": "Konto",
+        "layoutDefault.tNavigationPages.finance": "Finanzen",
+        "layoutDefault.tNavigationPages.preferences": "Einstellungen",
+        "layoutDefault.tNavigationPages.bonuses": "Boni",
+        "layoutDefault.tNavigationPages.title": "Profil"
+      },
+      "br": {
+        "layoutDefault.tNavigationPages.account": "Contra",
+        "layoutDefault.tNavigationPages.finance": "Finança",
+        "layoutDefault.tNavigationPages.preferences": "Preferências",
+        "layoutDefault.tNavigationPages.bonuses": "Bônus",
+        "layoutDefault.tNavigationPages.title": "Meu perfil"
+      }
+    }
+  }
+}
